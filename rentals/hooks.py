@@ -161,6 +161,14 @@ app_license = "mit"
 # 	],
 # }
 
+# scheduler_events = {
+#     "Cron": {
+#         "30 15 * * 3": [  # Every Wednesday at 3:30 PM
+#             "rentals.api.send_payment_reminders"
+#         ]
+#     }
+# }
+
 # Testing
 # -------
 
