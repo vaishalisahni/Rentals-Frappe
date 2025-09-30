@@ -7,6 +7,7 @@ app_license = "mit"
 
 # Apps
 # ------------------
+fixtures=[{"dt":"Vehicle Type", "filters":{"is_standard":1}},"Workflow"]
 
 # required_apps = []
 
